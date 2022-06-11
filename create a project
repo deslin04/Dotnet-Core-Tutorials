@@ -1,0 +1,10 @@
+create a dotnet core application
+..................................
+
+commad for create a dotnet core application
+    
+    dotnet new <templete name>
+
+    eg> if you want to create a console app
+         
+         dotnet new console

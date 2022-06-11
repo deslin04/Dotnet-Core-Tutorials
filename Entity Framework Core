@@ -1,0 +1,47 @@
+1)what is EF core?
+
+    Asp Dotnet Coreapp<------------> EFCore <-----------> DB
+
+    Ef core is a microsoft technology for intract with Relational database
+
+2)Features of Ef core
+
+   * Ef core works on ORM model (object realational mapper):
+				
+			ORM is a tool used to manage database data from an Object oriented perpective
+
+			      Database Tables => Clases
+                        
+			      Column => Properties
+
+			to genereate database tables or classes we can use ethier code 1st approch or database first Approch
+
+   * open source
+
+   * light weight
+
+   * Extensible
+ 
+   *support asyc    
+
+
+  EF core work wit the help of models
+  
+  A model is made up of enitiy classes and a context object
+
+
+3)what all packages are required to install ef core
+
+  *. the global package for ef core is :Microsoft.EntityFrameworkCore
+
+  *.Based on the the database we also need several other packags
+
+
+4) Ef core database provider
+
+	suppose want to work with a database what are the packages i insatall this scenario
+
+
+       to know that visit bebolw link:
+
+       https://docs.microsoft.com/en-us/ef/core/providers

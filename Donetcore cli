@@ -1,0 +1,11 @@
+CLI (command line interface)
+............................
+
+*)cli is a interface which is used to intract with program through commandline
+
+*)Now a days each programming language has its on cli 
+
+   dotnet cli is available in dotnet core sdk
+
+to run any commands or application from .dotnet cli we need a driver 
+    dotnet is the driver for .dotnet cli

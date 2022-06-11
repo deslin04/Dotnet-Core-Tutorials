@@ -1,0 +1,36 @@
+1) what is dotnet core
+  .....................
+
+   *) Dontcore is a software development application which is used to create multiple types of application.
+
+2) Realationship between .Net framework
+   .....................................
+
+   *) dotnet and .net core are completely different frameworks.
+   *).net core is completely new written framework which doesnt have any realation with .dotnet framework
+
+3)what can we do with .dotnet core framework
+  ...........................................
+
+  *)used to create multiple types of application
+  *)there are multiple framework which are written on top of .netcore to create different types of application
+
+4)Characteristics of .dotnet core
+  ................................
+
+  *)opensource
+  *)crossplatform
+  *)cli support
+  *)deployment:apllication which are developed with dotnetcore can be deployed on iss.linux,Docker ect.
+  *)free of cost
+  *)supported language(C#,F#,VB) 
+
+5)Dotnet core enviornment setup
+  ...............................
+ *)to create dotnet web application we need 
+        
+		*)dotnet core sdk(software development kit)
+                *)IDE(vs code)
+		*)runtime(runtime is included in sdk.basilcally it used for server from hosting the  app)
+
+
